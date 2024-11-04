@@ -1,0 +1,21 @@
+{
+	"name": "Abyssal Snail",
+	"health": 40,
+	"damage": 0,
+	"drops": [
+		{
+			"item": "exp",
+			"quantity": "25-40"
+		},
+		{
+			"item": "mineinabyss:abyssal_snail_shell",
+			"quantity": 1,
+			"chance": 0.7
+		},
+		{
+			"item": "mineinabyss:abyssal_snail_gunk",
+			"quantity": "1-2"
+		}
+	],
+	"image": "abyssal_snail.png"
+}

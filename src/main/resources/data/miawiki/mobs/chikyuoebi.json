@@ -1,0 +1,37 @@
+{
+	"name": "Chikyuoebi",
+	"health": 85,
+	"damage": 9,
+	"drops": [
+		{
+			"item": "exp",
+			"quantity": "5-10"
+		},
+		{
+			"item": "mineinabyss:chikyuoebi_raw",
+			"quantity": "1-2",
+			"chance": 0.6
+		},
+		{
+			"item": "DIAMOND",
+			"quantity": "1",
+			"chance": 0.05
+		},
+		{
+			"item": "GOLD_INGOT",
+			"quantity": "1-2",
+			"chance": 0.15
+		},
+		{
+			"item": "GRAVEL",
+			"quantity": "2-4",
+			"chance": 0.6
+		},
+		{
+			"item": "EMERALD",
+			"quantity": "1",
+			"chance": 0.05
+		}
+	],
+	"image": "chikyuoebi.png"
+}

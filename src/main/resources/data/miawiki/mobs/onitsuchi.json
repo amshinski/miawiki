@@ -1,0 +1,30 @@
+{
+	"name": "Onitsuchi",
+	"health": 50,
+	"damage": 7,
+	"drops": [
+		{
+			"item": "exp",
+			"quantity": "60-80"
+		},
+		{
+			"item": "mineinabyss:onitsuchi_wing_raw",
+			"quantity": "1-3"
+		},
+		{
+			"item": "mineinabyss:onitsuchi_skull",
+			"quantity": 1,
+			"chance": 0.6
+		},
+		{
+			"item": "mineinabyss:onitsuchi_feather",
+			"quantity": "1-3"
+		},
+		{
+			"item": "mineinabyss:onitsuchi_egg",
+			"quantity": "1-2",
+			"chance": 0.5
+		}
+	],
+	"image": "onitsuchi.png"
+}

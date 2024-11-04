@@ -1,0 +1,22 @@
+{
+	"name": "Edusan",
+	"health": 80,
+	"damage": 0,
+	"drops": [
+		{
+			"item": "exp",
+			"quantity": "15-20"
+		},
+		{
+			"item": "mineinabyss:edusan_scale",
+			"quantity": "1-18",
+			"chance": 1
+		},
+		{
+			"item": "mineinabyss:edusan_whisker",
+			"quantity": "1",
+			"chance": 0.2
+		}
+	],
+	"image": "edusan.png"
+}

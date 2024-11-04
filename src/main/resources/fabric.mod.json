@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "miawiki",
+	"version": "${version}",
+	"name": "miawiki",
+	"description": "In-game wiki for mineinabyss.com",
+	"authors": [
+		"amshinski@gmail.com"
+	],
+	"contact": {
+		"homepage": "https://github.com/amshinski/miawiki",
+		"sources": "https://github.com/amshinski/miawiki"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/miawiki/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "com.amshinski.miawiki.Miawiki",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "com.amshinski.miawiki.MiawikiClient",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"miawiki.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

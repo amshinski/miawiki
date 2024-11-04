@@ -1,0 +1,22 @@
+{
+	"name": "Ashimite",
+	"health": 35,
+	"damage": 0,
+	"drops": [
+		{
+			"item": "exp",
+			"quantity": "5-10"
+		},
+		{
+			"item": "mineinabyss:ashimite_meat_raw",
+			"quantity": "1-2",
+			"chance": 0.6
+		},
+		{
+			"item": "LIGHT_BLUE_WOOL",
+			"quantity": "1-2",
+			"chance": 0.6
+		}
+	],
+	"image": "ashimite.png"
+}

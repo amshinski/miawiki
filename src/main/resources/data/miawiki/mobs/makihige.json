@@ -1,0 +1,27 @@
+{
+	"name": "Makihige",
+	"health": 60,
+	"damage": 0,
+	"drops": [
+		{
+			"item": "exp",
+			"quantity": "15-30"
+		},
+		{
+			"item": "mineinabyss:makihige_ink_sac",
+			"quantity": "1-2",
+			"chance": 0.6
+		},
+		{
+			"item": "mineinabyss:makihige_shell",
+			"quantity": 1,
+			"chance": 0.3
+		},
+		{
+			"item": "mineinabyss:makihige_tentacle",
+			"quantity": "1-2",
+			"chance": 0.4
+		}
+	],
+	"image": "makihige.png"
+}

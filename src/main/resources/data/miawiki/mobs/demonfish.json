@@ -1,0 +1,13 @@
+{
+	"name": "Demonfish",
+	"health": 30,
+	"damage": 5,
+	"drops": [
+		{
+			"item": "mineinabyss:demonfish_raw",
+			"quantity": "1-2",
+			"chance": 0.6
+		}
+	],
+	"image": "demonfish.png"
+}
